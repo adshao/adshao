@@ -9,7 +9,7 @@ I'm a passionate developer exploring the frontiers of cryptocurrency, decentrali
 ## Featured Projects
 Here are some of my favorite works:
 
-- **[openxapi](https://github.com/openxapi/openxapi)**
+- **[openxapi](https://github.com/openxapi/openxapi)**  
   🔗 OpenAPI and AsyncAPI specifications for cryptocurrency exchanges and DeFi protocols.
 
 - **[go-binance](https://github.com/adshao/go-binance)**  (taken over by [ccxt](https://github.com/ccxt/go-binance))  
