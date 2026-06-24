@@ -13,10 +13,6 @@ I'm a passionate developer building practical software across AI, security, prod
 - **[VisaPDF](https://visapdf.xyz)**  
   A privacy-first PDF toolkit for visa and immigration documents on macOS and iOS. VisaPDF compresses, splits, merges, and converts files locally so applicants can meet IRCC, CEAC, embassy, and other portal upload limits without cloud uploads.
 
-## About Me
-- **X**: [@AdamShao](https://x.com/AdamShao)
-- **Focus**: AI, security, productivity software, Bitcoin, DeFi, and open-source infrastructure.
-
 ## Featured Projects
 Here are some of my favorite works:
 
@@ -31,6 +27,10 @@ Here are some of my favorite works:
 
 - **[go-binance](https://github.com/adshao/go-binance)**  (taken over by [ccxt](https://github.com/ccxt/go-binance))  
   📈 The most popular Go SDK for interacting with the Binance API. Perfect for building trading bots or analyzing market data!  
+
+## About Me
+- **X**: [@AdamShao](https://x.com/AdamShao)
+- **Focus**: AI, security, productivity software, Bitcoin, DeFi, and open-source infrastructure.
 
 ## Get in Touch
 
