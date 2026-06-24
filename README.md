@@ -10,6 +10,9 @@ I'm a passionate developer building practical software across AI, security, prod
 - **[Flounder](https://flounders.xyz)**  
   An autonomous white-hat security auditor that turns coding agents into an end-to-end audit workflow: prepare authorized targets, map attack surfaces, dig for vulnerabilities, construct sandboxed proof tests, confirm findings, and generate reports.
 
+- **[VisaPDF](https://visapdf.xyz)**  
+  A privacy-first PDF toolkit for visa and immigration documents on macOS and iOS. VisaPDF compresses, splits, merges, and converts files locally so applicants can meet IRCC, CEAC, embassy, and other portal upload limits without cloud uploads.
+
 ## About Me
 - **X**: [@AdamShao](https://x.com/AdamShao)
 - **Focus**: AI, security, productivity software, Bitcoin, DeFi, and open-source infrastructure.
@@ -20,14 +23,11 @@ Here are some of my favorite works:
 - **[publications](https://github.com/adshao/publications)**  
   📝 Blogs and insights about Uniswap and other DeFi projects.
 
-- **[bitcoin-primer](https://github.com/adshao/bitcoin-primer)**  
+- **[bitcoin-primer](https://bitcoinprimer.org)**  
   ₿ An educational website exploring Bitcoin through 9 disciplinary lenses - from economics to philosophy, with a structured 10-week curriculum.
 
 - **[openxapi](https://github.com/openxapi/openxapi)**  
   🔗 OpenAPI and AsyncAPI specifications for cryptocurrency exchanges and DeFi protocols.
-
-- **[VisaPDF](https://visapdf.xyz)**  
-  📄 On-device PDF toolkit for visa and immigration document preparation.
 
 - **[go-binance](https://github.com/adshao/go-binance)**  (taken over by [ccxt](https://github.com/ccxt/go-binance))  
   📈 The most popular Go SDK for interacting with the Binance API. Perfect for building trading bots or analyzing market data!  
